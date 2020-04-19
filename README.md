@@ -1,3 +1,11 @@
+# Домашнее задание по теме Ansible-2
+
+- Создал 2 playbook -а
+- Использовали шаблоны
+- Создали handlers, 
+- Изучили загличные варианты запуска playbook tags, check,
+- Изучили примение Ansible как провижининг в Packer
+
 # Домашнее задание по теме Ansible-1
 
 Установил ansible через 'pip install -r requirements.txt'
